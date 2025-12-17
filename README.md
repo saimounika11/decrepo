@@ -1,2 +1,2 @@
 # decrepo
-practice in dec month
+git practice in dec month
